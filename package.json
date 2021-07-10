@@ -1,5 +1,5 @@
 {
-  "name": "Paywall",
+  "name": "paywall",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,7 +27,7 @@
     "dotenv": "^4.0.0",
     "express": "^4.15.0",
     "jquery": "^3.1.1",
-    "knex": "^0.14.2",
+    "knex": "^0.95.7",
     "material-ui": "^0.20.0",
     "moment": "^2.20.1",
     "nodemon": "^1.14.10",
